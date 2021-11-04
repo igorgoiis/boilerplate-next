@@ -2,7 +2,7 @@ import Head from 'next/head';
 import Image from 'next/image';
 
 export default function Home() {
-  const blaa = 'var';
+  const bla = 'var';
   return (
     <div className="container">
       <Head>
