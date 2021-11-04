@@ -4,3 +4,5 @@ Utilizado no boilerplate:
 - Eslint
 - Prettier
 - Git hooks Husky
+- Jest
+- React Testing Library
